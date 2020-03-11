@@ -1,0 +1,9 @@
+C:\Users\asus\source\repos\SqlServer\SqlServer\bin\Debug\SqlServer.exe.config
+C:\Users\asus\source\repos\SqlServer\SqlServer\bin\Debug\SqlServer.exe
+C:\Users\asus\source\repos\SqlServer\SqlServer\bin\Debug\SqlServer.pdb
+C:\Users\asus\source\repos\SqlServer\SqlServer\obj\Debug\SqlServer.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\SqlServer\SqlServer\obj\Debug\SqlServer.Properties.Resources.resources
+C:\Users\asus\source\repos\SqlServer\SqlServer\obj\Debug\SqlServer.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\SqlServer\SqlServer\obj\Debug\SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\SqlServer\SqlServer\obj\Debug\SqlServer.exe
+C:\Users\asus\source\repos\SqlServer\SqlServer\obj\Debug\SqlServer.pdb

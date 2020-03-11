@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\Tp3\Classes_TP1\bin\Debug\Classes_TP1.dll
+C:\Users\asus\source\repos\Tp3\Classes_TP1\bin\Debug\Classes_TP1.pdb
+C:\Users\asus\source\repos\Tp3\Classes_TP1\obj\Debug\Classes_TP1.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Tp3\Classes_TP1\obj\Debug\Classes_TP1.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Tp3\Classes_TP1\obj\Debug\Classes_TP1.dll
+C:\Users\asus\source\repos\Tp3\Classes_TP1\obj\Debug\Classes_TP1.pdb

@@ -1,0 +1,5 @@
+C:\Users\asus\source\repos\SqlServer\Entity\bin\Debug\Entity.dll
+C:\Users\asus\source\repos\SqlServer\Entity\bin\Debug\Entity.pdb
+C:\Users\asus\source\repos\SqlServer\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\SqlServer\Entity\obj\Debug\Entity.dll
+C:\Users\asus\source\repos\SqlServer\Entity\obj\Debug\Entity.pdb

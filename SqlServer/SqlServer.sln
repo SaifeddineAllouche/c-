@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlServer", "SqlServer\SqlServer.csproj", "{06C42747-EF11-479D-A38C-8C7FDBC1D59A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{653A35E0-CE77-41EC-9D1A-E2DA339EBCD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesADO", "ADO.net\ClassesADO.csproj", "{1CDC7BFD-5182-42F0-9BE8-54DE8DD26064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06C42747-EF11-479D-A38C-8C7FDBC1D59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C42747-EF11-479D-A38C-8C7FDBC1D59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C42747-EF11-479D-A38C-8C7FDBC1D59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C42747-EF11-479D-A38C-8C7FDBC1D59A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{653A35E0-CE77-41EC-9D1A-E2DA339EBCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653A35E0-CE77-41EC-9D1A-E2DA339EBCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653A35E0-CE77-41EC-9D1A-E2DA339EBCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653A35E0-CE77-41EC-9D1A-E2DA339EBCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CDC7BFD-5182-42F0-9BE8-54DE8DD26064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CDC7BFD-5182-42F0-9BE8-54DE8DD26064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CDC7BFD-5182-42F0-9BE8-54DE8DD26064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CDC7BFD-5182-42F0-9BE8-54DE8DD26064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B464D87-B185-426F-BDAA-2007F53F50DE}
+	EndGlobalSection
+EndGlobal
